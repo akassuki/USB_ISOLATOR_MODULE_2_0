@@ -1,0 +1,19 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"1uF","CAP  0805","C1, C2, C3, C6, C9, C12","CAPC2012X145N","cap_0805_VJ0805A681KXCAP","6"
+"0.1uF","cap 0603 (1608 Metric)","C4, C7, C10, C13, C15, C16","CAPC1608X94N","cap_0603_VJ0603D3R9DXCAP","6"
+"10uF","cap 0603 (1608 Metric)","C5, C8, C11, C14","CAPC1608X94N","cap_0603_VJ0603D3R9DXCAP","4"
+"Blue","1206, Blue Typ.(@20mA): 470nm, 145mcd, 3.2V, 140Â° InGaN","D1","WL-SMCW_1206","WL-SMCW_1206","1"
+"B340A-E3/61T","Diode Schottky 40 V 3A Surface Mount DO-214AC (SMA)","D2","DIOM5126X229N","B340A-E3/61T","1"
+"824022","8V Clamp 8A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-3L, 
+WE-TVS_SOT23-3L_824022, 
+824022
+","D3, D4","WE-TVS_SOT23-3L","824022","2"
+"USBR-A-S-S-O-TH","USB-A _USB TYPE-A_ USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle","J1","SAMTEC_USBR-A-S-S-O-TH","USBR-A-S-S-O-TH","1"
+"type_A_2-0_48037-0001","USB-A _USB TYPE-A_ USB 2.0 Plug Connector 4 Position Through Hole, Right Angle
+48037-0001","J2","MOLEX_48037-0001","type_A_2-0_48037-0001","1"
+"Header 3","Header, 3-Pin","P1","HDR1X3","Header 3","1"
+"B0505LS-1WR3","1W DC/DC-Converter 'ECONOLINE' SIP7 1kV unreg","PS1","CONV_RFB-0505S","B0505LS-1WR3","1"
+"10K","0603 Anti-Sulfurated","R1","RES_ERJU03J474V","res_0603_ERJU03J474V","1"
+"24E","0603 Anti-Sulfurated","R2, R3, R4, R5","RES_ERJU03J474V","res_0603_ERJU03J474V","4"
+"ADUM4160BRWZ-RL","ADUM4160BRWZ-RL","U1","SOIC127P1032X265-16N","ADUM4160BRWZ-RL","1"
